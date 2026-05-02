@@ -227,7 +227,3 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or imp
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-* This project stands on the shoulders of giants. It was initially inspired by the architecture and concepts of the `OpenWakeWord` project.
